@@ -16,7 +16,7 @@ This simple Web application prototype shows how React components  can be used to
 ## Package installation
 Execute the following command on your terminal to install all the needed packages:
 ```
-git clone https://github.com/soumenmaity106/NBM_TEMS.git
+git clone https://github.com/soumenmaity106/Simple_Search.git
 
 npm install
 
